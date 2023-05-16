@@ -14,23 +14,24 @@ Youtube: https://www.youtube.com/watch?v=EtlNk1seO3s
 Obs.: O Site utiliza banco de dados MsSql Server, Php 8.1
 Para Funcionar tem que salvar os ficheiros em determinadas pastas:
 
-- Raiz
+- Raiz:
 Index.php, Iniciar.php, plataforma.php
-- Usuarios
+- Usuarios:
 Ambientes.php, ambientesAdd.php, cadastrarF.php, cadastrarP.php, cadastrarV.php, cadastro.php, financeira.php, financiamentos.php, financiamentosAdd.php, fornecedor.php, login.php, login_exec.php, logout.php, perfil.php.
-- Scripts
+- Scripts:
 Start_session.php
-- Produtos
+- Produtos:
 Contato_prop.php, contato_prop1.php, conviteEmail.php, convitesCad.php, eventos.php, eventoAdd.php, eventosCad.php, propagandas.php 
-- Images
+- Images:
 Foto_usu.png, fundo.png, inicio_prop.png, logo_2.png, logo_trraco.png, qrcode.png, whatsapp.png
-- Erro
+- Erro:
 Error.php, erros.php
-- Css
+- Css:
 Estilo.css
-- Connections
+- Connections:
 Config.php, mssql_con.php, mysql_con.php, sqlserver.php
 
 Obs.: dados da conexão com o banco de dados estão no arquivo:
 Mssql_con.php
+Anexar os arquivos (Grupo_23.mdf e Grupo_23_log.ldf) ao seu servidor de banco.
 
