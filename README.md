@@ -35,3 +35,5 @@ Obs.: dados da conexão com o banco de dados estão no arquivo:
 Mssql_con.php
 Anexar os arquivos (Grupo_23.mdf e Grupo_23_log.ldf) ao seu servidor de banco.
 
+Video youtube: https://www.youtube.com/watch?v=pPAYeXRs6bE, https://www.youtube.com/watch?v=EtlNk1seO3s
+
